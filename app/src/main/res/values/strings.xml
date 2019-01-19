@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">VideoViewExample</string>
+
+    <string name="progress_dialog_message">Loading…</string>
+    <string name="error_message">Error</string>
+    <string name="video_title">Title : %s</string>
+    <string name="video_duration">Duration : %s sec</string>
+</resources>

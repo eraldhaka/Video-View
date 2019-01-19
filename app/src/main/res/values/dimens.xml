@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_8dp">8dp</dimen>
+    <dimen name="item_height">200dp</dimen>
+    <dimen name="item_margin_bottom">10dp</dimen>
+    <dimen name="item_title_margin_start">35dp</dimen>
+    <dimen name="item_title_margin_bottom">5dp</dimen>
+    <dimen name="item_title_padding">5dp</dimen>
+    <dimen name="item_duration_margin_end">35dp</dimen>
+    <dimen name="item_duration_margin_bottom">5dp</dimen>
+</resources>
